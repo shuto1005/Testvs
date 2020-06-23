@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\sufan\\.nuget\\packages\\": {}
+    "C:\\Users\\yuto-\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sufan\\source\\repos\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\yuto-\\Source\\Repos\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\sufan\\source\\repos\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-      "packagesPath": "C:\\Users\\sufan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sufan\\source\\repos\\Testvs\\WpfApp1\\WpfApp1\\obj\\",
+      "projectPath": "C:\\Users\\yuto-\\Source\\Repos\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\yuto-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yuto-\\Source\\Repos\\Testvs\\WpfApp1\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sufan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yuto-\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
