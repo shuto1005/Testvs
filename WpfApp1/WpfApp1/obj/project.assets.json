@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\yuto-\\.nuget\\packages\\": {}
+    "C:\\Users\\aki90\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuto-\\Source\\Repos\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\aki90\\Documents\\program sources\\visualstudio\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\yuto-\\Source\\Repos\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-      "packagesPath": "C:\\Users\\yuto-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuto-\\Source\\Repos\\Testvs\\WpfApp1\\WpfApp1\\obj\\",
+      "projectPath": "C:\\Users\\aki90\\Documents\\program sources\\visualstudio\\Testvs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\aki90\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aki90\\Documents\\program sources\\visualstudio\\Testvs\\WpfApp1\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yuto-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aki90\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
